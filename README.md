@@ -3,7 +3,7 @@
 
 This project focuses on querying sales data to derive insights related to revenue, transaction amounts, and customer behavior. By grouping and aggregating data, these queries provide insights into average spending per order, most and least popular items, sales performance by time of day, and more.
 
-Dataset
+## Dataset
 
 The dataset contains the following fields:
 
